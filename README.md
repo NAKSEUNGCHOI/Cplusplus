@@ -6,7 +6,7 @@
 ## Description
 
 * Summer 2022
-* I started studying this just to refresh my memory with C++ language.
+* I started studying this just to refresh my memory with C++ and OOP.
 
 ## Release Notes
 
