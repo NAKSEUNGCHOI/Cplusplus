@@ -6,11 +6,8 @@
 ## Description
 
 * Summer 2022
-<<<<<<< HEAD
-* I started studying this just to refresh my memory with C++ and OOP.
-=======
 * I am trying to refresh my memory with C++ language and OO-programming.
->>>>>>> 6a2ec60 (initial commit)
+
 
 ## Release Notes
 
